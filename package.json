@@ -16,5 +16,8 @@
     "url": "https://github.com/1mRen/INT-PROG_MIDTERM/issues"
   },
   "homepage": "https://github.com/1mRen/INT-PROG_MIDTERM#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
